@@ -14,9 +14,110 @@ Project Status Report Outline ([PDF]({{< baseurl >}}/resources/3_statusreport))
 
 Project Presentation Outline ([PDF]({{< baseurl >}}/resources/4_presentation))
 
-| GROUPS | PROJECTS |
-| --- | --- |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Group Two** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} _Outdoor Wireless at MIT_ {{< br >}}{{< br >}} Janice Lin {{< br >}}{{< br >}} Jessica So {{< br >}}{{< br >}} Ashvini Thammiah {{< br >}}{{< br >}} Harel Williams {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Proposal ([PDF]({{< baseurl >}}/resources/team2proposal)) {{< br >}}{{< br >}} Status Report 1 ([PDF]({{< baseurl >}}/resources/team2report1)) {{< br >}}{{< br >}} Status Report 2 ([PDF]({{< baseurl >}}/resources/team2report2)) {{< br >}}{{< br >}} Status Report 3 ([PDF]({{< baseurl >}}/resources/team2report3)) {{< br >}}{{< br >}} Status Report 4 ([PDF]({{< baseurl >}}/resources/team2report4)) {{< br >}}{{< br >}} Final Report ([PDF]({{< baseurl >}}/resources/team2finalreport)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Group Three** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} _MIT Portal Project_ {{< br >}}{{< br >}} Tiffany Kosolcharoen {{< br >}}{{< br >}} Susie Lee {{< br >}}{{< br >}} Adam Powell {{< br >}}{{< br >}} Armando Valdes {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Proposal ([PDF]({{< baseurl >}}/resources/team3proposal)) {{< br >}}{{< br >}} Status Report 1 ([PDF]({{< baseurl >}}/resources/team3report1)) {{< br >}}{{< br >}} Status Report 2 ([PDF]({{< baseurl >}}/resources/team3report2)) {{< br >}}{{< br >}} Status Report 3 ([PDF]({{< baseurl >}}/resources/team3report3)) {{< br >}}{{< br >}} Status Report 4 ([PDF]({{< baseurl >}}/resources/team3report4)) {{< br >}}{{< br >}} Final Report ([PDF]({{< baseurl >}}/resources/team3finalreport)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+
+
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GROUPS
+{{< thclose >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Group Two**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Outdoor Wireless at MIT_
+
+Janice Lin
+
+Jessica So
+
+Ashvini Thammiah
+
+Harel Williams
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proposal ([PDF]({{< baseurl >}}/resources/team2proposal))
+
+Status Report 1 ([PDF]({{< baseurl >}}/resources/team2report1))
+
+Status Report 2 ([PDF]({{< baseurl >}}/resources/team2report2))
+
+Status Report 3 ([PDF]({{< baseurl >}}/resources/team2report3))
+
+Status Report 4 ([PDF]({{< baseurl >}}/resources/team2report4))
+
+Final Report ([PDF]({{< baseurl >}}/resources/team2finalreport))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Group Three**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_MIT Portal Project_
+
+Tiffany Kosolcharoen
+
+Susie Lee
+
+Adam Powell
+
+Armando Valdes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proposal ([PDF]({{< baseurl >}}/resources/team3proposal))
+
+Status Report 1 ([PDF]({{< baseurl >}}/resources/team3report1))
+
+Status Report 2 ([PDF]({{< baseurl >}}/resources/team3report2))
+
+Status Report 3 ([PDF]({{< baseurl >}}/resources/team3report3))
+
+Status Report 4 ([PDF]({{< baseurl >}}/resources/team3report4))
+
+Final Report ([PDF]({{< baseurl >}}/resources/team3finalreport))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
